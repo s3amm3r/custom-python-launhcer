@@ -1,3 +1,6 @@
+just for the start of the readme you can download and use this change this source code for free without any problem
+
+
 # Custom Python Minecraft Launcher
 
 This project aims to build a production-quality, fully custom, open-source Minecraft launcher in Python that rivals third-party launchers like Prism Launcher, MultiMC, or ATLauncher in terms of features, polish, and ease of use. The launcher will be written entirely in Python, prioritizing stability, correctness, maintainability, and cross-platform compatibility over rapid initial development.
@@ -237,3 +240,4 @@ For a production launcher with all advanced features (multi-account, modpacks, n
 **Trade-offs for Pure Python**: High performance achieved via async operations and concurrent downloads; Qt provides near-native UI quality; Python's flexibility enables rapid feature development.
 
 This roadmap prioritizes correctness (e.g., full spec compliance) and maintainability (modular design) while acknowledging trade-offs.
+
